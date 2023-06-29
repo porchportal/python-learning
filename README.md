@@ -1,3 +1,3 @@
 # python-learning
 
-I don't have any thing you want
+I don't have anything you want
